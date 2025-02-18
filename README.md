@@ -53,6 +53,7 @@ The dataset consists of **9000+ lead records** with various attributes such as:
 - **`Assignment_Subjective_Questions.docx`** - Answers to business-related questions.
 - **`Summary_Report.pdf`** - 500-word report summarizing the project.
 
+
 ## How to Run the Project
 1. Install dependencies:
    ```bash
@@ -60,7 +61,7 @@ The dataset consists of **9000+ lead records** with various attributes such as:
    ```
 2. Open the Jupyter Notebook:
    ```bash
-   jupyter notebook Lead_scoring_assignment-WIP2 (1).ipynb
+   jupyter notebook Lead_scoring_assignment.ipynb
    ```
 3. Run the cells step by step to execute data cleaning, EDA, model building, and evaluation.
 
