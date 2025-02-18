@@ -60,7 +60,7 @@ The dataset consists of **9000+ lead records** with various attributes such as:
    ```
 2. Open the Jupyter Notebook:
    ```bash
-   jupyter notebook Lead_scoring_assignment.ipynb
+   jupyter notebook Lead_scoring_assignment-WIP2 (1).ipynb
    ```
 3. Run the cells step by step to execute data cleaning, EDA, model building, and evaluation.
 
